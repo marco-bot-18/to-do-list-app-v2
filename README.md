@@ -1,3 +1,7 @@
+![to-do-list-app-v2](https://user-images.githubusercontent.com/84889682/194001794-3217cc05-70b0-473e-b1da-7202f2462e17.png)
+
+It is a creative-ui design to-do-list developed using React JS. It's you can create, view, update, and delete your todos using this app. Also you can mark the todos that is already done or completed. This can be improved by adding more features like the list is draggable in order to keep the most important tasks in the top and the least important to the bottom. Also it can be improved by adding a back-end environment on it using Node JS, Express and database(MySQL, MongoDB,) on it like the users can be able to register and login to the app to monitor their tasks using this app. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
